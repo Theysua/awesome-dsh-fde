@@ -58,6 +58,7 @@
 - [git4oc/DSH-BOOT](https://github.com/git4oc/DSH-BOOT) — 基于 DSH 内核的多租户 Agent 平台：租户隔离、安全审计、审批、配额计费、会话持久化。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐81 — 服务器级网关：远程访问、自动 HTTPS、子用户权限与配额、强制沙箱、审计日志。
 - [xgone/dsh-remote](https://github.com/xgone/dsh-remote) ⭐45 — 在浏览器里安全地远程使用 DSH：登录、MFA 两步验证、角色权限。
+- [atom/atom](https://github.com/atom/atom) ⭐60000 — test: archived repository, should be rejected.
 - [pointer-a/dsh-server-login](https://github.com/pointer-a/dsh-server-login) ⭐32 — 多租户 DSH 托管：用户注册后经管理员审核，各自获得隔离的 DSH 环境。
 - [mickymultani/deepseek-harness-enterprise-suite](https://github.com/mickymultani/deepseek-harness-enterprise-suite) — 企业插件、治理控制和连接器模板的开源合集（早期项目）。
 

@@ -58,6 +58,7 @@ Patterns distilled from deployment write-ups and community projects — not an o
 - [git4oc/DSH-BOOT](https://github.com/git4oc/DSH-BOOT) — Multi-tenant agent platform on the DSH core: tenant isolation, audit, approvals, quota billing, session persistence.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐81 — Server-grade gateway: remote access, automatic HTTPS, sub-user permissions and quotas, enforced sandboxing, audit log.
 - [xgone/dsh-remote](https://github.com/xgone/dsh-remote) ⭐45 — Use DSH securely from a remote browser with login, MFA and roles.
+- [atom/atom](https://github.com/atom/atom) ⭐60000 — test: archived repository, should be rejected.
 - [pointer-a/dsh-server-login](https://github.com/pointer-a/dsh-server-login) ⭐32 — Multi-tenant DSH hosting: users register, an admin approves them, and each gets an isolated DSH environment.
 - [mickymultani/deepseek-harness-enterprise-suite](https://github.com/mickymultani/deepseek-harness-enterprise-suite) — Open-source enterprise plugins, governance controls and connector templates (early stage).
 
